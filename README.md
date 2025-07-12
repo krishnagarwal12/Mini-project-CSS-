@@ -25,6 +25,11 @@ The design is inspired by modern UI practices and styled with **Google Fonts** a
 
 ---
 
+## 🙋‍♂️ Author
+
+**Krishna Agarwal**  
+[GitHub Profile](https://github.com/krishnagarwal12)
+
 ## 📂 Project Structure
 
 ```plaintext
