@@ -38,8 +38,3 @@ CSS-Sidebar-Menu/
 ├── index.html       # Main HTML file
 ├── style.css        # All the styling is done here
 └── README.md        # Project documentation (you're reading it)
-
-## 🙋‍♂️ Author
-
-**Krishna Agarwal**  
-[GitHub Profile](https://github.com/krishnagarwal12)
