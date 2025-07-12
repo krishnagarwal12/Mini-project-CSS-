@@ -34,5 +34,7 @@ CSS-Sidebar-Menu/
 ├── style.css        # All the styling is done here
 └── README.md        # Project documentation (you're reading it)
 
+## 🙋‍♂️ Author
+
 **Krishna Agarwal**  
-🔗 [GitHub](https://github.com/krishnagarwal12)  
+[GitHub Profile](https://github.com/krishnagarwal12)
